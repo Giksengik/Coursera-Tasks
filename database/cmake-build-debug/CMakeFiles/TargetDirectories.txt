@@ -1,0 +1,3 @@
+D:/github/Coursera Tasks/database/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/github/Coursera Tasks/database/cmake-build-debug/CMakeFiles/database.dir
+D:/github/Coursera Tasks/database/cmake-build-debug/CMakeFiles/rebuild_cache.dir
